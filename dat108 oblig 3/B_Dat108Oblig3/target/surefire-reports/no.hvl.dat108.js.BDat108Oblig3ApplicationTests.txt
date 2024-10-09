@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: no.hvl.dat108.js.BDat108Oblig3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.124 s -- in no.hvl.dat108.js.BDat108Oblig3ApplicationTests

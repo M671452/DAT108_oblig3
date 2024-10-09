@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: no.hvl.dat108.lab2.JavaScriptObligMalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.353 s -- in no.hvl.dat108.lab2.JavaScriptObligMalApplicationTests
